@@ -1,0 +1,10 @@
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\testing.exe.config
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\testing.exe
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\testing.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\obj\Debug\testing.csprojResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\obj\Debug\testing.exe
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\obj\Debug\testing.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\data.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\data.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\testing\bin\Debug\utils.pdb

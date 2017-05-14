@@ -1,0 +1,15 @@
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\billmon.exe.config
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.csprojResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.MdiPrincipal.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.Properties.Resources.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.csproj.GenerateResource.Cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\billmon.exe
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\billmon.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\presentation.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\presentation.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\utils.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.exe
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\obj\Debug\billmon.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\data.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\billmon\bin\Debug\data.pdb

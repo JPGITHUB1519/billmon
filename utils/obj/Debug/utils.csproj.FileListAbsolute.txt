@@ -1,0 +1,5 @@
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\utils\obj\Debug\utils.csprojResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\utils\bin\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\utils\bin\Debug\utils.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\utils\obj\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\utils\obj\Debug\utils.pdb

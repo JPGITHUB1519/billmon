@@ -1,0 +1,14 @@
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.csprojResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.PMantBase.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.PMantClientes.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.Properties.Resources.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.Reports.PReport.resources
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.csproj.GenerateResource.Cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\presentation.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\presentation.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\utils.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\obj\Debug\presentation.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\data.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\presentation\bin\Debug\data.pdb

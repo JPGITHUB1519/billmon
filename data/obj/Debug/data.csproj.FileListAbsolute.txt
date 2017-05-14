@@ -1,0 +1,8 @@
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\bin\Debug\data.dll.config
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\bin\Debug\data.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\bin\Debug\data.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\bin\Debug\utils.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\bin\Debug\utils.pdb
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\obj\Debug\data.csprojResolveAssemblyReference.cache
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\obj\Debug\data.dll
+C:\Users\Tester\Desktop\Universidad\Proyecto2\billmon\data\obj\Debug\data.pdb
